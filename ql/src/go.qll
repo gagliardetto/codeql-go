@@ -32,7 +32,8 @@ import semmle.go.dataflow.TaintTracking2
 import semmle.go.frameworks.Beego
 import semmle.go.frameworks.BeegoOrm
 import semmle.go.frameworks.Chi
-
+import semmle.go.frameworks.CleverGo
+import semmle.go.frameworks.Couchbase
 import semmle.go.frameworks.Echo
 import semmle.go.frameworks.Email
 import semmle.go.frameworks.Encoding
